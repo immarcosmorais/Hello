@@ -1,3 +1,8 @@
-var vNumber = 5.78;
-var vString = "abacaxi";
-var vBoolean = true;
+function imprimeOla() {
+  var mensagem = "Ola";
+  console.log(mensagem);
+}
+
+function soma(op1, op2) {
+  return op1 + op2;
+}
